@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/SolangeHarmoniePICARD/github-readme-stats">
+<a href="https://github.com/SolangeHarmoniePICARD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolangeHarmoniePICARD&hide=hack&layout=compact&langs_count=6&theme=radical">
 </a>
