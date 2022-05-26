@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏾
+
+My name is Harmonie, I am a Web Development Coach-Trainer. 
 
 <!--
 **SolangeHarmoniePICARD/SolangeHarmoniePICARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<a href="https://github.com/SolangeHarmoniePICARD/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolangeHarmoniePICARD&hide=hack&layout=compact&langs_count=6&theme=radical">
+</a>
